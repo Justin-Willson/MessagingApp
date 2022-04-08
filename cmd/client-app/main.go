@@ -1,10 +1,7 @@
 package main
 
-import (
-	"fmt"
-)
+import "github.com/Justin-Willson/MessagingApp/clientlib"
 
 func main() {
-	fmt.Println("Hello World!")	
-	StartClient()
+	clientlib.StartClient()
 }
