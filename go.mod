@@ -1,3 +1,3 @@
-module github.com/Justin-Willson/ma
+module github.com/Justin-Willson/MessagingApp
 
 go 1.13
